@@ -1,3 +1,6 @@
+// Property of the CodeBusters
+
+
 import UIKit
 
 var boldText: [String] = []
